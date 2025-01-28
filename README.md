@@ -60,7 +60,7 @@ Sometimes the ingame ui might not load fast enough to keep up with the clicks, t
 Because of how the search filter in the marketplace works some items will always be incorrectly selected when searching for the item from the loadout, for example
 when searching for a Turnshoe the Laced Turnshoe always show first and is then picked by the software.
 
-When using the Sell Cheapest option the software might read the value wrong, while the changes of this happening seems kind of rare always be sure to check the value before confirming the sale.
+When using the Sell Cheapest option the software might read the value wrong, while the chances of this happening seems kind of rare always be sure to check the value before confirming the sale.
 
 # Buy me a coffee
 If you like this please consider buying me a coffee at https://ko-fi.com/leoleoleo03 :)
