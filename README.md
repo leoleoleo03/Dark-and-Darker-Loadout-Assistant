@@ -26,7 +26,7 @@ The price textbox is optional, but if added the full price of the loadout will b
 
 ![instruction2](https://github.com/user-attachments/assets/25e73961-3f25-4d24-a920-bad093610805)
 
-Do this for every desired piece of gear on your loadout. now **with the game open in your main monitor** open the marketplace in the game and click the [Search Full] or [Search Basic] buttons next to the item you want to buy, the software 
+Do this for every desired piece of gear on your loadout. now **with the game open in your main monitor open the marketplace in the game** and click the [Search Full] or [Search Basic] buttons next to the item you want to buy, the software 
 will control the mouse and fill the filters on the marketplace automatically and search the item, **this will realize several clicks on screen, always on the main monitor so make sure you have the game open in the main monitor!!** do **not** move your mouse
 while the item is being searched.
 
