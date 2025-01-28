@@ -68,4 +68,4 @@ The software is coded in C#,windows form on visual studio.
 
 Im not a programmer, so the code is by consequence simply awful, however this software does work and saves a ton of time, i have been using it for around 6 months now and personally think its pretty useful, hopefully you think the same!
 
-And thanks to Nuke for helping with the github stuff
+And thanks to Nuke for helping with the github stuff!!
