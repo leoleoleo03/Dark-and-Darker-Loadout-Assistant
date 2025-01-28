@@ -13,7 +13,7 @@ Download the software on https://drive.google.com/file/d/1SwdJzz6miYVqvQ1RBMRf9Z
 Launch the DaD Loadout Assistant.exe on the root folder
 
 # How to use
-First select your screen resolution on the bottom right radio buttons, at the moment these are the only avaliable resolutions, the selected resolution will be saved and not need to be reselected again after closing the software.
+First select your screen resolution on the bottom right radio buttons, at the moment these are the only avaliable resolutions, the selected resolution will be saved and don't need to be reselected again after closing the software.
 
 ![instruction0](https://github.com/user-attachments/assets/bd26b1e4-7836-4421-878e-fe352340ee4b)
 
