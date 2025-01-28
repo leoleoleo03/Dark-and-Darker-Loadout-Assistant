@@ -7,7 +7,7 @@ and also let you search and sell gear on your stash for the lowest price on the 
 **Important:** this software controls your mouse and clicks the screen, it also takes screenshots to read prices on the marketplace, it all functions locally without being saved anywhere on the internet.
 
 # How to run
-Download the software on https://drive.google.com/file/d/1SwdJzz6miYVqvQ1RBMRf9ZopF4lNn2lR/view?usp=sharing
+Download the software on https://drive.google.com/file/d/1BgTPIG4fwZKVr1L1KTTa7s5jGPtMRc7e/view?usp=sharing
 
 
 Launch the DaD Loadout Assistant.exe on the root folder
