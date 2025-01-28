@@ -62,7 +62,7 @@ when searching for a Turnshoe the Laced Turnshoe always show first and is then p
 
 When using the Sell Cheapest option the software might read the value wrong, while the changes of this happening seems kind of rare always be sure to check the value before confirming the sale.
 
-# Buy me a Coffee
+# Buy me a coffee
 If you like this please consider buying me a coffee at https://ko-fi.com/leoleoleo03 :)
 
 # Other
